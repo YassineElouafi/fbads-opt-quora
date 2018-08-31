@@ -1,1 +1,431 @@
-<!DOCTYPE html><html lang=en><head><link rel='icon' href='https://qsf.fs.quoracdn.net/-3-images.favicon.ico-26-ae77b637b1e7ed2c.ico' /><link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' href='https://qsf.fs.quoracdn.net/-3-fonts.q-icons.q-icons.woff2-26-9afc20a49e3ef2cf.woff2' /><link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' href='https://qsf.fs.quoracdn.net/-3-fonts.q_serif.q_serif_regular.woff2-26-7ace3bc4cbe404d9.woff2' /><link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' href='https://qsf.fs.quoracdn.net/-3-fonts.q_serif.q_serif_regular_italic.woff2-26-9d81ab3229809d01.woff2' /><link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' href='https://qsf.fs.quoracdn.net/-3-fonts.q_serif.q_serif_semibold.woff2-26-b55bf39d9018ace9.woff2' /><link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' href='https://qsf.fs.quoracdn.net/-3-fonts.q_serif.q_serif_semibold_italic.woff2-26-4c39f22524232bf2.woff2' /><script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/625CFED6-231E-6F4A-8044-0BC75ED63237/main.js" charset="UTF-8"></script><script type="text/javascript">window.Q = {"fontFamilies": ["q-icons", "q_serif"], "errorSamplingRate": 1.0, "settings": {"action": "q", "actionTrail": null, "batchedServerCallUrl": "/webnode2/batched_server_call_POST", "clientLogTrail": null, "componentInspector": false, "controller": "question", "cookiePrefix": "m", "debug": false, "enableFrameBusting": true, "fbLanguageCode": "en_US", "formatted_tab_titles": {"feed": {"title": "Home"}, "openqs": {"title": "", "short_title": "Answer"}, "notifs": {"title": "Notifications", "short_title": "Notifs"}, "more": {"title": "More"}, "search": {"title": "Search"}, "ask": {"title": "Ask"}, "profile": {"title": "You"}, "videos": {"title": "Videos"}, "spaces": {"title": "Spaces"}, "language": "en"}, "formkey": "810139f9b7a0fcab0bcbdeef121424c8", "googleClientId": "917071888555.apps.googleusercontent.com", "googleCookiePolicy": "http://quora.com", "instance": "main", "interfaceLanguage": "en", "interface_strings": {"ok": "OK", "done": "Done", "cancel": "Cancel", "update": "Update", "please_refresh": "Please refresh this page to receive new updates.", "please_try_again": "Something went wrong. Please try again.", "in_progress_warning": "Warning: Your work in progress has not been saved. Leaving or reloading this page will discard any unsaved changes.", "trying_to_regain": "Trying to regain internet connection..."}, "datetime_strings": {"en": {"dayMonthTemplate": "{month} {day}", "dayMonthYearTemplate": "{month} {day} {year}", "monthNames": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "just now", "yesterday": "yesterday", "agoTemplate": "{time} ago"}, "es": {"dayMonthTemplate": "{day} {month}", "dayMonthYearTemplate": "{day} {month} {year}", "monthNames": ["Ene.", "Feb.", "Mar.", "Abr.", "May.", "Jun.", "Jul.", "Ago.", "Sept.", "Oct.", "Nov.", "Dic."], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "justo ahora", "yesterday": "ayer", "agoTemplate": "hace {time}"}, "fr": {"dayMonthTemplate": "le {day} {month}", "dayMonthYearTemplate": "le {day} {month} {year}", "monthNames": ["janv.", "f\u00e9vr.", "mars", "avr.", "mai", "juin", "juil.", "ao\u00fbt", "sept.", "oct.", "nov.", "d\u00e9c."], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "\u00e0 l'instant", "yesterday": "hier", "agoTemplate": "il y a {time}"}, "de": {"dayMonthTemplate": "{day}. {month}", "dayMonthYearTemplate": "{day}. {month} {year}", "monthNames": ["Jan", "Feb", "M\u00e4r", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "Gerade eben", "yesterday": "gestern", "agoTemplate": "vor {time}"}, "it": {"dayMonthTemplate": "{day} {month}", "dayMonthYearTemplate": "{day} {month} {year}", "monthNames": ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "ora", "yesterday": "ieri", "agoTemplate": "{time} fa "}, "ja": {"dayMonthTemplate": "{month} {day}", "dayMonthYearTemplate": "{month} {day} {year}", "monthNames": ["1\u6708", "2\u6708", "3\u6708", "4\u6708", "5\u6708", "6\u6708", "7\u6708", "8\u6708", "9\u6708", "10\u6708", "11\u6708", "12\u6708"], "timeAbbrevs": ["\u65e5", "\u6642\u9593", "\u5206", "\u79d2"], "justNow": "\u305f\u3063\u305f\u4eca", "yesterday": "\u6628\u65e5", "agoTemplate": "{time}\u524d"}, "id": {"dayMonthTemplate": "{day} {month}", "dayMonthYearTemplate": "{day} {month} {year}", "monthNames": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agt", "Sep", "Okt", "Nov", "Des"], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "Baru saja", "yesterday": "kemarin", "agoTemplate": "{time} lalu"}, "pt": {"dayMonthTemplate": "{day} {month}", "dayMonthYearTemplate": "{day} {month} {year}", "monthNames": ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "agora h\u00e1 pouco", "yesterday": "ontem", "agoTemplate": "{time}"}, "hi": {"dayMonthTemplate": "{day} {month}", "dayMonthYearTemplate": "{day} {month} {year}", "monthNames": ["\u091c\u0928", "\u092b\u093c\u0930", "\u092e\u093e\u0930\u094d\u091a", "\u0905\u092a\u094d\u0930\u0948", "\u092e\u0908", "\u091c\u0942\u0928", "\u091c\u0941\u0932\u093e", "\u0905\u0917", "\u0938\u093f\u0924\u0902", "\u0905\u0915\u094d\u091f\u0942", "\u0928\u0935\u0902", "\u0926\u093f\u0938\u0902"], "timeAbbrevs": ["d", "h", "m", "s"], "justNow": "\u092c\u0938 \u0905\u092d\u0940", "yesterday": "\u0915\u0932", "agoTemplate": "{time} \u092a\u0939\u0932\u0947"}}, "isAnonPage": false, "isCrawler": false, "isLoggedIn": true, "isParallel": true, "isExpandedBroadcast": false, "logComponentTime": false, "nid": 0, "nidToSubdomainMap": {"0": null, "5": "es", "6": "fr", "7": "de", "8": "it", "9": "jp", "10": "id", "11": "pt", "12": "hi"}, "request_id": "44b4cabf74fb494fb9a3256b024b3c61", "revision": "a5193ccffe967ae5e56e594aa9f6022d516e3bc5", "serverCallUrl": "/webnode2/server_call_POST", "subdomain_of_network": null, "subdomain_name": null, "subdomain_suffix": "quora.com", "stripePublishableKey": "pk_live_9MI7iqAKfs033l029FQIVsV3", "shouldReportEndToEndGet": true, "useScaledInference": false, "cdn": "fastly", "fbApiVersion": "v2.8", "onloadDelay": 0, "qtextData": {"videoEnabled": false, "videoEditorSupported": false}, "pageIsMobile": false, "postkey": "cfbc2a8db75e9b9420590856e6d179a7", "speedStandard": {}, "pageMode": "live", "appURL": null, "fbAppId": "136609459636", "androidAppPackageName": "com.quora.android", "mobileRedirect": false, "force_use_absolute_links": false, "windowId": "dep4100-872172148063404352"}, "gating": {"ad_unit_field_length_limits": {"business_name": 40, "business_description": 1024, "title": 65, "content_text": 105, "url": 1024, "domain_name": 30, "tax_id": 32}, "ads_manager_error_audit": false, "ads_manager_siderail": false, "qfeed_log_debugger": false, "quora_share": false, "force_mobile_app_modals": null, "log_mobile_js_message_error": true, "show_native_console_log": false, "android_debuggable": false, "throttle_qtext_editor_toolbar_updates": true, "show_header_image_picker": false, "video_low_resolution_in_feed": true, "send_unsplash_tracking_in_js": false, "client_side_logging": false, "use_native_selection": false, "disable_static_asset_caching": false, "use_webupload": 1, "client_side_batched_logging_interval": 2000, "enable_ui_copy_experiment_wizard": false, "async_navigate_to_js": true, "qualtrics_development_mode": false, "speed_index_sampling_rate": 0, "enable_client_log_trails": true, "action_log_js_debug": false, "expanded_broadcast": false, "tribe_item_modal": false, "enable_quora_share_in_tribe": false}};window["webpackManifest"] = {"ads_manager": "https://qsbr.fs.quoracdn.net/-3-chunk.web.ads_manager.js.out-34-cedb7d639a7431fc.webpack", "content_widgets": "https://qsbr.fs.quoracdn.net/-3-chunk.web.content_widgets.js.out-34-9a6c124eee999cb7.webpack", "dev": "https://qsbr.fs.quoracdn.net/-3-chunk.web.dev.js.out-34-5ad1848c16ab1136.webpack", "internal": "https://qsbr.fs.quoracdn.net/-3-chunk.web.internal.js.out-34-834b64c13ed6f6f0.webpack", "qtext2": "https://qsbr.fs.quoracdn.net/-3-chunk.web.qtext2.js.out-34-3d47300dbd3c49f2.webpack", "main": "https://qsbr.fs.quoracdn.net/-3-chunk.web.main.js.out-34-a7e2d8a8ab660917.webpack", "firebase": "https://qsbr.fs.quoracdn.net/-3-chunk.web.firebase.js.out-34-dea1d18765a9ec75.webpack", "publisher_dashboard": "https://qsbr.fs.quoracdn.net/-3-chunk.web.publisher_dashboard.js.out-34-0ef5c05e740e4c61.webpack"};window["webpackChunks"] = ["main"];window["PAGE_IS_MOBILE"] = false;</script><script type="text/javascript">var clicks=[],handleClicks=!0,handleUnready=function(e){if(handleClicks){for(var n=e.target;n&&n.tagName&&"A"!=n.tagName;)n=n.parentNode;if(n&&n.getAttribute&&"#"===n.getAttribute("href")){clicks.push(e.target);var t=document.getElementById("async_spinner");if(!t){t=document.createElement("div"),t.setAttribute("id","async_spinner"),t.setAttribute("class","__live_spinner");var a=document.createElement("div");a.setAttribute("class","__live_spinner_indicator"),require.whenReady("shared/loading",function(){var e=require("shared/loading"),n=e.createDots("small");a.appendChild(n),t.appendChild(a),document.body.appendChild(t)})}}}};window.clearHandlers=function(){if(handleClicks){handleClicks=!1,document.detachEvent?document.detachEvent("onclick",handleUnready):document.removeEventListener("click",handleUnready,!0);for(var e=0;e<clicks.length;++e)clicks[e].click();var n=document.getElementById("async_spinner");n&&n.parentNode.removeChild(n)}},document.attachEvent?document.attachEvent("onclick",handleUnready):document.addEventListener("click",handleUnready,!0);
+What are the best Facebook advertising tools for small businesses?
+
+Answer Wiki
+Reveal – Facebook Ads automation and reporting tool
+
+AdStage – Automated PPC Management Software
+
+Adespresso – Simple, Powerful Facebook Ads Manager
+
+Smartly – Facebook and Instagram Performance Marketing Platform
+
+21 Answers
+Scott M Warren
+Scott M Warren, Growth At 🤖Boosteroid.ai | Top Quora Facebook Ads Writer
+Answered Dec 28, 2017
+
+For small businesses I think keeping as much cash in your own accounts is important.
+
+The standard Facebook Ad Manager interface, tells you so much information that it’s hard to say there are better tools available.
+
+The information, could be presented in a more visual way, but once you learn how to break down data, it’s the simplest and cheapest (free) too to use.
+
+I’ll add that Reveal is looking like a valuable automation tool once someone has enough return on adspend to justify it. (I’m testing now).
+
+Creative rotation and building multiple ads at once were once features that saved so much time in Qwaya and Adespresso. But now that Facebook released dynamic ad creative, I have a hard time recommending these.
+
+In case you need to see certain data and access it quickly, I’d suggest hiring (or finding) someone to customize your default data columns.
+
+This is something I do for clients when they hire my company to run ads for them. I set up a default data set so they can see specifically the data they need/want to see, how much it costs and how much they are making.
+
+
+
+Promoted by Zoho
+Automate your business with Zoho One.
+Run your entire business with 40+ integrated apps. No multi-year contracts and no multiple versions.
+Sign up at zoho.com
+ 
+Will Ashton
+Will Ashton, CEO Hatch, 12+ years digital marketing experience, ex-Google, Facebook PMDs
+Updated Aug 2, 2017
+Over the past few years, the answer to this question has changed but I think it’s difficult to look beyond Power Editor as the best free ad management software. Or if you want to be more specific and/or advanced, a combination of Power Editor and Microsoft Excel. Add to the mix a good, analytical brain and you’re pretty much there!
+
+I’ve been involved in running FB ads for over 7 years. I spent 2010 to 2015 running Facebook Ads FMP (or PMD) businesses in Europe, most latterly Nanigans. When I left (2015), more and more clients and potential customers were choosing Power Editor over our solution. And these are large-scale advertisers pretty much uniformly spending over $50K/month. If Power Editor is good enough for them, then it’s likely good enough for lower spending advertisers also.
+
+Some of its advantages include:
+
+Power Editor is developed by Facebook
+It allows you to easily manage your account as it scales letting you make bulk changes and operates in an offline mode so that edits don’t go live until you publish it
+Where previously FMPs/PMDs led the way in terms of bid optimisation, Facebook’s own algorithms have caught up to the extent that in many cases, running Facebook’s optimised bidding is the best solution.
+Similarly some of the other key reasons for using a 3rd party provider have gone since Power Editor has been improved; these include ability to bulk split ad sets by age and other variables as well as rules-based optimisation (or “Automated Rules” as Facebook calls it).
+The Excel export feature lets you export the entire account into an Excel spreadsheet in which you can make granular changes to your ads, bids, budgets etc, and then quickly upload everything back into the account for all the changes to happen.
+The majority of new Facebook ad features these days will be released straight into Power Editor. The ad partners will need time to build these out (this was always a big issue at my previous companies) and get them into their products, so in terms of early adopter advantage for these new features, you can’t beat Power Editor.
+In terms of what you can do in Excel once you’ve downloaded the account, the possibilities are pretty much endless:
+
+(Bulk) change any variable, including ad status, bids, ad copy, landing page, targeting
+You can use pivot tables to sort and gain insights from looking at the data in different dimensions
+For example, you can look at performance by country, device, or indeed country and device and make optimisations based on what you see. E.g. if Android performs badly in France, you can exclude it completely or reduce your bids
+It allows you to quickly sort by performance, spend or whatever you prioritise so that you can quickly make decisions and cut out the inefficient segments and focus on where the majority of budget is spent or performance is driven.
+Hopefully this helps. If you feel inspired to learn more about the best ways of running Facebook ads, we’ve been teaching marketers all over the world for the past couple of years and have translated our in-person workshop into an online learning experience, check it out here!
+
+
+
+Karl Kangur
+Karl Kangur, CEO at MRR Media (2016-present)
+Answered May 31
+Facebook has helped to make advertising more targeted and more relevant than ever before. The average active user, for example, likes at least 20 pages that indicate certain characteristics and interests. There are other forms of data you can use to tailor your advertising through Facebook ad Manager.
+
+You should be looking at using some of the best Facebook advertising tools to ramp up your campaigns. We have put together some of the best ones for 2018:
+
+Get Creative
+
+1. Qwaya
+
+2. Driftrock
+
+3. Canva
+
+4. Pablo by Buffer
+
+5. CoSchedule Headline Analyzer
+
+6. Unsplash
+
+Research to Get Ahead of Your Competitors
+
+7. Buzzsumo
+
+8. Connectio Facebook Ad Keyword Search
+
+9. AdEspresso – Facebook Ad Examples
+
+10. Facebook ROI Calculator
+
+Analyze Your Ad Performance
+
+11. Google Analytics
+
+12. Wicked Reports
+
+13. Facebook Analytics
+
+Create Landing Pages That Lead to Purchases
+
+14. ClickFunnels
+
+15. UpViral
+
+16. ConnectLeads
+
+Other Epic Tools:
+
+17. ManyChat
+
+18. ConnectRetarget
+
+Read our full article on the best Facebook Ad tools for 2018 here.
+
+MRR Media provides “done-for-you” marketing solutions for SaaS businesses. Using proven, data-driven methods and an established team, we take your business to the next level with eight key growth services: Content Creation, Outreach Marketing, Social Media Marketing, Email Marketing, Guest Posting, Podcast Interviews, Link Building, and Ad Management. Save time and money and get unparalleled results by outsourcing your SaaS marketing needs today! Learn more and book a free consultation now.
+
+
+
+Shreya Pandey
+Shreya Pandey, IT Consultant at Cognizant Business Consulting (2013-present)
+Updated Jun 27
+When it comes to a small business, time and money both play a very crucial role in identifying the Facebook Ad tool meant for your business. Here are some of the best Facebook ad tools that specially serve the purpose well for small businesses:
+
+1. Facebook Ads Manager: There is no better solution to turn to when maximizing your Facebook ad reach, than Facebook itself. The Facebook Ads manager gives you the access to all the relevant marketing tools that are required to create target specific ads that effectively reach your clientele.
+
+2. AdEspresso: When it comes to managing your Facebook ads, AdEspresso is the most simple and straightforward marketing tool. It is known for its analytics and actionable approach to advertising on Facebook and other social media.
+
+3. AdYogi: Adyogi is one of the most talked about Facebook Ad tools that helps in scheduling and planning the right target audience for the ads.
+
+4. Hootsuite: Unarguably, Hootsuite is one of the most efficient ad tools when it comes to managing your social media ads. Hootsuite allows you to take your Facebook ads to the next level.
+
+5. Driftrock: Top advertising brands including Coca Cola and BMW rely on this ad tool to generate leads through Facebook advertising for their brand. It allows users to create, automate, trigger and generate response through their Facebook advertising.
+
+
+
+Key Kevin
+Key Kevin, studied at South-Central University for Nationalities
+Answered Nov 10, 2017
+Facebook Ads Spy Tools reveal a lot of information about Ads running on Facebook.By using these tools, you come to know which Facebook Ads your competitors are running. You will know to whom they are targeting.
+
+I will give a list of good Facebook sd spy tools to you:
+
+AdEspresso (Free Trial+Paid Version)
+Here’s the Anatomy of Facebook Ads Gallery for you:
+
+Search – key in phrases that best describe the ads that you are looking for. You can even use advertiser’s name or Facebook page URL.
+Placements – You get three main placements for Facebook advertising.
+All Industries – It enables you to filter the results by industry.
+Objectives – You can filter the result by objective.
+Attributes – helps you with ads with specific components. When you are done, hit the ‘Find Ads Now’ button.Once you click on an ad, you will direct to a page where you will get all information about the ad.
+2. SocialPeta (Free Trial+Paid Version)
+
+It has the chrome extension.
+It updates monthly over millions.
+It has more than 30+ channels, not only for Facebook, but also Google Admob.
+It can also be helpful to ecommerce business.
+It has the largest data and creative.
+It only takes 1 $ for a 5-day trail.
+3. Advisor2(Paid version)
+
+You can figure out the exact audience that your competitors are targeting
+You can easily find the most profitable ads and know the offers, audience, landing pages, and even the ad content.
+But it doesn’t have free trial and update slowly.
+4. WhichAdsWork ( Closed)
+
+It has simply filter and in-depth analytics.
+It is designed and optimized specifically for affiliates and ecommerce advertisers.
+It is easy to find and download winning ads.
+It can be found by affiliate network, keyword, advertiser, publisher, and tracking system.
+It is a little bit expensive.
+5. AdFox (Paid version)
+
+It is suitable to Russian market.
+It can search every type of ad on Desktop and Mobile.
+It has over 300,000 ads in its database and grows daily.
+It is web-based.
+It can provide your competitor’s angles, images, copy, engagement levels, and target audiences.
+6. Compass(Paid)
+
+It lets you discover the ads your competitors are running on Facebook and Linkedin.
+It provides one of the largest index of ads on the market, as much as 3,000,000 ads indexed.
+It comes with an intuitive layout so that even a beginner can discover winning ads for social campaigns.
+7. Bigbigads (Free Trial+Paid Version)
+
+It is very good for running business on Facebook.
+It is updated monthly.
+It has a lot uncompleted features and a little expensive.
+So I like SocialPeta more, that is a real costive tool for spying Facebook ads and give more surprise functions.
+
+Hope it helps :)
+
+
+
+Mark Correa
+Mark Correa, works at Online Journalism
+Answered Jun 6, 2012
+Based on my experience using Facebook Ads for my site (an experiment I'm doing in local news gathering), here's what I'd suggest:
+
+1. Start by making sure your business Facebook page is active and up-to-date. Update it regularly for at least a week (preferably more) before you buy ad ad. (What's happening at your business? Are there coupons? Special deals? Were you in the local paper? Is there something going on in the community that your business has some connection to? Be sure to point people from your Facebook page to your business website, as well.)
+
+2. Use your Facebook Ad to promote your Facebook page, rather than your business website. This gives users something familiar when they click on the link. Once they get there, it's up to you to provide something that will keep them there (see No. 1, above).
+Why point people to your Facebook page? Because you can see the effect more clearly. You can watch your "likes" increase and make rapid decisions about whether the ad campaign you're running is working.
+
+3. When creating the ad, be sure to target it as specifically as possible. Begin with a small target of the people most likely to be interested (I targeted small business owners and people who liked "news" in a single zip code, for starters). When the number of "likes" starts to get more respectable, you can broaden your targeting to people who might be slightly less interested but who might be persuaded to "join" by the number of "likes" your page has.
+
+4. Don't be afraid to bid on the low end of the suggested price. I bid below the lowest suggested price and my ad was accepted. If it's not accepted, just go back and raise your bid. (Note: The actual cost I paid was below the bid in some instances).
+
+5. Keep your daily budget low. I only wanted to spend $100 for starters, so I started my daily budget at $10. I paid for each click on my ad, but when it hit $10 in a day, my ad disappeared. This way, I was able to keep expenses in check while getting a good read on the ad's success.
+
+My efforts tripled my "likes" in about a month, but I was a new service in what I considered to be an underserved market. Plus, my "experiment" was entirely free. Can't promise you'll have the same results, but still figured I'd share. I also was able to start the campaign with fewer than 100 likes, although another answerer says you need 100 minimum. I'd suggest checking that out if you're under 100, as it worked fine for me. Good luck!
+
+
+Jyoti Garg
+Jyoti Garg, Technical Content Writer
+Answered Mar 1
+It has been rightly said that - Keep your friends close and your enemies closer. If you keep your competitors close, you will know what they are up to. Competitors push you to be better because contention creates innovation. To be ahead and to stand out from the rest it is very important to keep an eye on your competitors every move. And this can be easily done by the powerful ads spy tools present in the market.
+
+FB Ads spy tools provide you insights about the ads running on Facebook. What has worked for your competitors can even work for you.. Also, these spy tools helps you to boost your sales and generate leads.
+
+Below enlisted are 3 excellent tools to spy on your competitors on Facebook ads and which will help you to stay ahead of them -
+
+
+1. PowerAdSpy
+PowerAdSpy is one of the most popular ad spy tool. It makes it much easier for you to create more effective ads. You can filter your ads according to your niche. With a single click, you will be able to see the best running ads on Facebook across worldwide. Simple and powerful way to funnel your competitors best ads in seconds.
+
+PowerAdSpy comes with power packed features which makes your ad campaigns more effective.
+
+Filter your ads based on the position as news feed or side location to know which performs well in your niche.
+Extracts Millions of ads from 15+ Countries
+Provide Audience involvement based details
+Call-To-Action based Cataloging
+View real time engagement of audience with the ads
+Narrow Down searches according to niche, advertisers domain, keywords.
+In depth analytics
+2.WhichAdsWork
+
+This ad spy tool comes with a simple user interface, simplified filtering, and detailed analytics. This particular ad spy tool is basically designed for the ecommerce and the affiliate advertisers.
+
+With WhichAdsWork you can
+
+Quickly find and download running popular ads.
+You can also filter the ads by keywords, affiliate network , publisher and advertiser.
+Although, This particular tool has closed its doors permanently. We cannot use its service as it has been expired. But it was a great ads spy tool indeed.
+
+3. Advisor2
+
+The most reliable ad spy tool. It is considered to be the best tool for ad search. You can easily find and replicate the ad copies with this ad spy tool. Also, it is easier to find the running ads in your category. Also, it helps to run more cheaper ads which are profitable too.
+
+With Advisor2 -
+
+You can spy on Fb mobile ads
+Figure out the exact audience that your opponents are focusing
+Helps to know offers, landing pages, popular ads of competitors.
+Spying on your competitors is not about copying or adding to industry monotony. This helps you to symphonize with the audience. You have to make your own place in the market. But for creating your own space you need to know your competitors. You need to know where you stand and where your competitors.
+
+
+
+Thies And Polasek Strategies™
+Thies And Polasek Strategies™, Co Founders at Thies And Polasek
+Answered Aug 27, 2017
+This is very important. Please pay close attention, many small companies really drop the ball on this.
+
+What is the purpose of your company existing online?
+
+This is what your online marketing needs to reflect. Are you there to create online sales? To generate leads? For exposure?
+
+Once you know why you exist, then and only then can you begin strategizing. Each purpose should have a different strategy with a different tool.
+
+I go over all of this in my online marketing and sales generating training. Check it out! Hope this helps. Best of luck!
+
+-Cameron Thies
+
+FREE online marketing training
+
+
+
+Ethan Scott
+Ethan Scott, Data Analyst at Freelancing (2015-present)
+Answered Feb 28
+I guess for any kind of business there are basically only 2 options when it comes to advertising:
+
+Advertising on your own: Which means using huge banner advertisement and putting it up on the side of the roads to catch everyone’s attention or learn a few programs by wasting your valuable time in order to advertise at places that are not exactly familiar to you.
+Hire an Advertising agency: The better choice. Instead of you tediously fondling around with different softwares and trying to figure out what to do, you can be smarter and hire someone to do it for you. Using algorithms and different methods to enable marketing automation, the marketing firm will target the right audience on a global scale and see to it that your product is properly promoted to the right age group, gender, and whatever other categories that are relevant.
+To me, option 2 seems better obviously since I would save valuable time and money by hiring experts to do this task instead of a inexperienced user trying to promote things in a futile manner.
+
+
+
+Daniel Bromberg
+Daniel Bromberg, Head of Sales at www.iZettle.com
+Answered Jun 13, 2012
+It is also important to make a difference between running your own Facebook campaigns and going for a fully managed service.
+ 
+If you are running your own campaigns Facebook offers the self-service tool and the power editor. Both are great but once you get the grip of advanced Facebook advertising you will probably need a more sophisticated tool to get more bang for your buck.
+ 
+Once you take the leap to use a third party tool it is important the tool is intuitive and easy to use. 
+ 
+Also, make sure the tool you choose offers you some kind of basic optimization functionality like ad scheduling, conversion tracking and ad rotation. 
+ 
+Anther important difference with most serious 3rd party tool providers and the tools provided by Facebook is that you can manage a large amount of campaigns in a structured way. For example, at Qwaya we offer you campaign folders to segment your campaigns in a structured way that fits you, and your way of organizing.  However, most third party tools have great ways of organizing the campaigns.
+ 
+Of course, your budget will also influence what kind of tool you should choose. Most tool providers charge you a % of Facebook spend or a minimum flat rate of $500/monthly minimum. So, if your budget is large a % of spend perhaps wont hurt you that much, but if you have a monthly budget of a few thousand dollars the $500 monthly will hurt you more.
+
+
+Cara Tarbaj
+Cara Tarbaj, Office Coordinator at iSSi
+Answered Feb 27, 2014
+Great question. Over at Wishpond, we focus on making online marketing easier for small businesses. 
+
+One of the tools we offer is a Facebook Ad Manager that makes it easy to create effective Facebook Ads that will drive new customers. 
+
+Here are a few features of the Facebook Ad Tool: 
+
+Connects your Facebook Ad with your landing page in one easy step
+Makes Facebook Ad creation a straightforward, two step process
+Does the work for you, by having Wishpond’s proprietary targeting software automatically optimize your ad for conversions
+Gives you an estimated click-through-rate based on Audience and your budget even before your ad is live
+
+Learn more here: Facebook Ads Tool
+
+
+Adeel Arif
+Adeel Arif, Ran FB Ad Campaigns for two Startups
+Answered Jun 4, 2012
+'Sponsored Stories' are a great tool for businesses just starting out. All you need is at least a 100 people "Like"ing your page. Sponsored Stories are like items in the news feed showing friends of your fans that their friend likes your page. These do not seem like ads, and are likely to attract a significant CTR (Click Through Rate).
+
+A few tips if you want to go ahead with Sponsored Stories:
+– make sure you have a simple and attractive page profile picture.
+– choose a broad demographic (and choose to pay per click when starting out)
+– bid on the higher end of the suggested range
+– be ready to spend at least $100-$200 on experimentation till you get it 'right'
+– have posts on your page that entice the person who lands on it to visit your website (conversion)
+
+There is no 'one-size-fits-all' approach- you need to spend some time experimenting and monitoring the ads' performance. The most successful ads utilize the 'social' element of Facebook.
+
+Good luck!
+
+
+Jerimiah Sampson
+Jerimiah Sampson
+Answered May 15, 2017
+Very good question! With so many different tools out there finding the right one is becoming more and more difficult. I have been doing Facebook advertising for about 3 years now and starting out it was very hard. I found myself spending ridiculous amounts of money trying to target people who were looking for my products. I must have played with the audience insight tool for hours and hours before I gave up and said, “there has to be an easier way to do this”. Luckily for me there was and it was a pure money and life saver.
+
+Now before I came across this tool I’m going to recommend. I spent about $789.45 (I kept track of every penny) in advertising and didn’t even come close to a return on investment. Was I pissed heck yea I was pissed and ready to give up on affiliate marketing and Facebook advertising.
+
+Then the “Social Interest Freak” swooped down and saved me from the pain and agony I was going through. I’m going give you a brief breakdown of what I experienced before and after “Social Interest Freak”.
+
+Before SIF: I spent $30 on an ad set that I had set to target people who wanted to “work from home” I entered in all the demographics that was needed to target the perfect audience (So I Thought). 5 days had gone by and I only received 240 clicks and 12 conversions. Even though I profited $175.00 It still wasn’t the results I was looking for.
+
+After SIF: I spent the same $30 on an ad set but this time I let the “Social Interest Freak” (Software) do the targeting for me. I let the ad run for the same 5-day time frame but this time I received 867 clicks and 312 conversions. I profited over $1300 this time using the “Social Interest Freak”.
+
+Ever since then I been using the “Social Interest Freak” and I have made over $47,000 all thanks to this software. I have put several of my friends on to this tool and each one of them has seen over 10k their first month of using it so I’m a firm believer in this.
+
+There is a video explaining it much better than I can. “Social Interest Freak” I hope this helps you as much as its helped me. It’s a real life changing tool for anyone who is serious about advertising on Facebook.
+
+
+Anastasiia Bondarenko
+Anastasiia Bondarenko, Marketing Manager Assistant at Catvertiser - Fb Ads Optimization Tool
+Answered Jul 29, 2015
+While Facebook's native advertising tools often have its limitations, the third-party tools (such as Catvertiser.com) always try to improve their features and offerings in order to provide their customers with the best experience with Facebook ads.
+If you already decided to do advertising, do it properly. Do not advertise for the sake of advertising. It will be waste of your time and money.  
+
+If you agree with the above statements, you should start choosing the tool. It would be wrong for me to say which one is the best, as it depends on individual preferences. Nevertheless, my skills, competencies and professional responsibilities allow me to advise you Catvertiser.com. 
+
+Fist of all, you will have an opportunity to try out the features of this tool during two-week trial period for free. Second of all, you will have an individual support for our team of professionals, which will make your experience much more useful and easy. Concerning other benefits of using Catvertiser, you can learn by visiting its site.
+
+
+George Lewis
+George Lewis, For small Business Owners
+Answered Sep 7, 2017
+There are number of facebook advertising tool which can help for small business growth. You can use these following advertising tools for your business. Have a look on these tools:
+
+Facebook Ads Manager App
+Facebook Ads Exclusion Targeting
+Qwaya
+AdEspresso’s Facebook Ads Compass Report
+Hootsuite Ads
+You can use these famous tools to give ad on your business facebook account. I hope that it will be very beneficial for your business.
+
+
+Rohit Onkar
+Rohit Onkar, Digital Innovator, Consultant, Trainer, Mentor
+Answered Aug 25, 2017
+The best advertising tool for a small advertiser is the Facebook ad manager itself. All things that you cannot do using ads manager, can be done using a free Facebook tool called power editor. There are a few FMP tools that build a dashboard over Facebook’s ad dashboard and help you optimize campaigns better. Almost all of them end up working on a media commission model. For a small business with limited spends, it’s best to avoid them since overall both your cost and effort will increase.
+
+
+Nicholas Moore
+Nicholas Moore, works at Experian Marketing Services
+Answered Sep 30, 2014
+Depends on whether you want a self service tool or a managed service.
+
+Managed services tend to be useful as they will normally consist of a social media expert using a range of platforms to optimise performance. But it is more expensive and only worth doing if you can guarantee the ROI.
+
+For a small business you want to make sure you have accurate and clean data before getting involved in Facebook - otherwise you will not be able to target your customers accurately enough to lower your CPLs. I'd recommend spending some money cleaning your data then either using a self service or going it alone.
+
+I work for Experian and we offer the Alchemy Social platform which can be operated as a SAAS option (self service) or a managed service (which will also cater for other social media networks).
+
+Alchemy Social Facebook Ad Manager - UK
+Why Alchemy Social? | Experian Marketing Services - US
+
+
+Shelly Lin
+Shelly Lin, Facebook Researcher
+Answered Aug 24, 2016
+I suggest you use AdSeedata, which can spy on competitors’ Facebook ads , includes their creative and audience, optimization trend. As an excellent spying tool I used before, it is a nice choice to try. Everyone can get Free Trial account to view all kinds of ads, especially mobile game ads.
+
+
+Sudhanshu Kumar Sam
+Sudhanshu Kumar Sam
+Answered Aug 23, 2017
+Facebook Is The Best Way To Advertise Your Business As My Point of View.
+
+To Know the Process Step By Step please visite - E-commerce Advertising Agency India - PPC Management India
+
+
+Shawn Hunter
+Shawn Hunter, Owner at E-Commerce (2010-present)
+Answered Jul 18, 2017
+Ive used very few tools myself when advertising through Facebook, but the one o favored the most was GrowthOk, it gave me a much needed reliable solution for Facebook ad management. Especially with all of the various ad campaigns I had be running during that time.
+
+
+Mmo Top
+Mmo Top, Mr John
+Answered Jun 19, 2015
+Great! I have a suggestion for you. Have you hear about Social Autobots software? You can read the review here: Social Autobots Review - Will they work for you
+
+I think it is suitable for your case.
+
+Good luck,
